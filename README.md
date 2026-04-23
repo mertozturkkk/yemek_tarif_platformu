@@ -75,7 +75,7 @@ Ek bir kütüphane gerektirmez.
 
 Aşağıdaki komut ile program başlatılır:
 
-```bash python yemek.py
+bash python yemek.py
 
 Program başlatıldığında:
 Demo veriler yüklenir
