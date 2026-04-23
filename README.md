@@ -79,29 +79,49 @@ bash python yemek.py
 
 Program başlatıldığında:
 Demo veriler yüklenir
-Ana menü ekrana gelir
+Ana menü ekrana gelir 
+
 📋 6. Ana Menü
 Sistem aşağıdaki seçenekleri sunar:
 [1] Tüm tarifleri listele  
+
 [2] Tarif ara  
-[3] Filtreleme  
+
+[3] Filtreleme 
 [4] Popüler tarifler  
+
 [5] Tarif detayı görüntüle  
+
 [6] Yeni tarif ekle  
+
 [7] Puan / yorum ekle  
+
 [8] Favori işlemleri  
+
 [9] Güncelle / Sil  
+
 [10] Giriş / Kayıt  
+
 [11] Profil görüntüle  
+
 [12] Kategori istatistikleri  
+
 [0] Çıkış  
+
 👤 7. Kullanım Senaryoları
+
 🔐 7.1 Kullanıcı Kaydı ve Giriş
+
 Kullanıcılar e-posta ile kayıt olur
+
 Aynı e-posta tekrar kullanılamaz
+
 Giriş sonrası kullanıcı aktif olur
+
 🍳 7.2 Tarif Ekleme
+
 Kullanıcılar aşağıdaki bilgileri girerek tarif oluşturur:
+
 Tarif adı
 Kategori
 Süre
